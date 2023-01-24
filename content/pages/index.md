@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: The Market Leader in Composables
+      text: The Market Leader in Packaging
       color: text-dark
       styles:
         self:
