@@ -51,7 +51,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Award winning enterprises trust us!
     images:
       - url: /images/empathy_jcmigz.svg
         altText: Empathy logo
